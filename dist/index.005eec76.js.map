@@ -1,0 +1,1 @@
+{"mappings":"AAAA,EAAE;IACE,QAAQ,GAAG,CAAC;AAmBhB","sources":["src/javascript/index.js"],"sourcesContent":["$(function () {\n    console.log(\"Arrancamos\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n});"],"names":[],"version":3,"file":"index.005eec76.js.map","sourceRoot":"/__parcel_source_root/"}
